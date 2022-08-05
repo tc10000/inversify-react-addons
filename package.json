@@ -1,5 +1,5 @@
 {
-  "name": "inversify-react-extensions",
+  "name": "inversify-react-addons",
   "version": "0.1.0",
   "description": "An additional set of hooks for inversify-react to allow for safely getting items from a container.",
   "main": "./dist/index.js",
@@ -12,7 +12,11 @@
     "test": "jest --no-cache",
     "test:watch": "jest --no-cache --watchAll"
   },
-  "author": "",
+  "author": "tc10000",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tc10000/inversify-react-addons"
+  },
   "license": "Apache-2.0",
   "dependencies": {},
   "devDependencies": {
