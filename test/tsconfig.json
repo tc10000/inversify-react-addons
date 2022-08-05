@@ -1,0 +1,14 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+        "noUnusedLocals": false,
+        "strictPropertyInitialization": false,
+        "types": [
+            "reflect-metadata",
+            "jest"
+        ]
+    },
+    "include": [
+        "./**/*"
+    ]
+}
